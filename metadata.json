@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Saurav Bhakat - Medical Portfolio",
+  "description": "Professional medical portfolio website for Dr. Saurav Bhakat specializing in Emergency Medicine and Diabetes Care, featuring AI-powered health assistance and 360-degree clinic views.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
